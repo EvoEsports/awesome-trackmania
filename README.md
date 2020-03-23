@@ -98,6 +98,9 @@
 ### Nickname
 - [nickedit](maniaplanet:///:nickedit) - In-game mainalink nickname editor.
 - [Text Formatting Tutorial](https://doc.maniaplanet.com/client/text-formatting)
+- [Statsmania](http://www.statsmania.net/pages/editor)
+- [TMU.KrazyColors](http://kc.jfreu.com/)
+- [ObsMania](http://obsmania.com/nickname-editor)
 ### Tracks
 - [ManiaExchange](https://tm.mania-exchange.com/) - For TrackMania² tracks.
 - [TrackMania Exchange (TMX)](https://tmnforever.tm-exchange.com/) - For TrackMania Nations Forever tracks.

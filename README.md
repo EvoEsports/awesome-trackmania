@@ -144,7 +144,7 @@
 - [Speedrunning](https://discordapp.com/invite/yJ4G4r6)
 - [Smurfen.net](http://discord.smurfen.net/)
 - [FullSpeed League](https://discord.gg/6zGZU9P)
-- [TrackMania Openm](https://discord.gg/qC5684m)
+- [TrackMania Open](https://discord.gg/qC5684m)
 - [TrackMania News](https://discord.gg/wCmsgSm)
 - [TrackMania One](https://discordapp.com/invite/9w2uggH)
 - [Trackmania Liquipedia](https://discord.gg/dMaeEQE)

@@ -158,7 +158,7 @@
 - [Eirik Hodal's Corner](https://discord.gg/vKETwuy)
 - [asteri’s Discord](https://discord.gg/WQg8EKW)
 - [NidoTOUR](https://discord.gg/aVxXv3x)
-- [Mudda](https://discord.gg/mZkJaaY)
+- [Mudda's Secret Den](https://discord.gg/mZkJaaY)
 
 ### Competitions
 - [TrackMania Grand League](https://discord.gg/BnKX24m)

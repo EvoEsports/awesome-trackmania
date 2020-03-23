@@ -83,6 +83,7 @@
 - [TMNF Dedicated Serverr](http://www.tm-forum.com/viewtopic.php?t=14203)
 - [TMNF Dedicated Server Docs](http://www.gamers.org/tmf/docs/readme_dedicated.html)
 - [TMNF Docker Server](https://hub.docker.com/r/lduriez/tmserver)
+- [Dedimania](http://dedimania.net/) - Global track leaderboards.
 ### Administration
 - [AdminServ](https://github.com/Chris92de/AdminServ) - Web interface for administrating your servers.
 ### Controllers

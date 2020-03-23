@@ -1,1 +1,1 @@
-# awesome-trackmania
+# 🏎 Awesome TrackMania!

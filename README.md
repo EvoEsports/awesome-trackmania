@@ -2,22 +2,22 @@
 
 ## Table of Contents
   General
-  - Steam
+    Steam
   Community Websites
   Forums
   Wikis
   Competitions & Events
-  - Websites
+    Websites
   Servers
   Customize
-  - Nickname
-  - Tracks
-  - Car Skins
-  - Steam
+    Nickname
+    Tracks
+    Car Skins
+    Steam
   Manialink
-  - Development
-  - Manialinks by the community
+    Development
+    Manialinks by the community
   Discord
-  - Players
-  - Competitions
+    Players
+    Competitions
   Other

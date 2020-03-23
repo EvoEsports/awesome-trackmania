@@ -9,6 +9,8 @@
 - [Competitions & Events](#Competitions--Events)
   * [Websites](#Websites)
 - [Servers](#Servers)
+  * [Administration](#Administration)
+  * [Controllers](#Controllers)
 - [Customize](#Customize)
   * [Nickname](#Nickname)
   * [Tracks](#Tracks)
@@ -124,7 +126,7 @@
 - [FancyManiaLinks](https://github.com/steeffeen-zz/FancyManiaLinks) - Object-based generation php library for manialinks.
 
 ### Manialinks by community
-- `isymbols` - In-game Symbols.
+- `symbols` - In-game Symbols.
 - `nickedit` - In-game nickname editor.
 - `position` - Position helper.
 - `mathgame` - Math game.

@@ -96,7 +96,7 @@
 
 ## Customize
 ### Nickname
-- [nickedit](maniaplanet:///:nickedit) - In-game mainalink nickname editor.
+- `nickedit`- In-game mainalink nickname editor.
 - [Text Formatting Tutorial](https://doc.maniaplanet.com/client/text-formatting)
 - [Statsmania](http://www.statsmania.net/pages/editor)
 - [TMU.KrazyColors](http://kc.jfreu.com/)

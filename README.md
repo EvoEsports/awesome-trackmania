@@ -1,4 +1,4 @@
-#  Awesome TrackMania! 🏎
+#  Awesome TrackMania!
 
 ## Table of Contents
 - [General](#General)

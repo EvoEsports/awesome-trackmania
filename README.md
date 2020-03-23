@@ -156,6 +156,7 @@
 - [United Designers](https://discord.gg/v96Xq25)
 - [Trackmania Nascar](https://discord.gg/v3eWrzh)
 - [Evo](https://discord.gg/4PKKesS)
+- [OpenPlanet](https://discordapp.com/invite/6JesQ6h)
 
 ### Players
 - [Spammiej Squad](https://discord.gg/2VGfH47)

@@ -86,6 +86,7 @@
 - [Dedimania](http://dedimania.net/) - Global track leaderboards.
 ### Administration
 - [AdminServ](https://github.com/Chris92de/AdminServ) - Web interface for administrating your servers.
+- [AdminServ-Neo](https://gitlab.com/Chris92de/AdminServ-Neo/) - Rewrite of AdminServ. Only for ManiaPlanet titles.
 ### Controllers
 - [UASECO](https://www.uaseco.org/)
 - [EvoSC](https://github.com/EvoTM/EvoSC)

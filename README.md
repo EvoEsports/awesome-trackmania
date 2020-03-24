@@ -120,8 +120,8 @@ These are the steam workshop pages of each TrackMania² title, containing tracks
 
 ## Manialink
 ### Development
-- [Official Manialink Docs](https://doc.maniaplanet.com/manialink)
-- [ManiaScript Reference](https://maniaplanet.github.io/maniascript-reference/)
+- [Official Manialink Docs](https://doc.maniaplanet.com/manialink) - All kinds of documentation and tutorials on the maniaplanet client, like manialink, servers, scripting etc.
+- [ManiaScript Reference](https://maniaplanet.github.io/maniascript-reference/) - Generated reference of all modules in maniascript.
 #### Libraries
 - [FancyManiaLinks](https://github.com/steeffeen-zz/FancyManiaLinks) - Object-based generation php library for manialinks.
 

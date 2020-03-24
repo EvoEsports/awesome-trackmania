@@ -1,5 +1,5 @@
 [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
-![Discord](https://img.shields.io/discord/384138149686935562?color=494368&label=%20&logo=discord&logoColor=ffffff&style=flat-square)
+[![Discord](https://img.shields.io/discord/384138149686935562?color=494368&label=%20&logo=discord&logoColor=ffffff&style=flat-square)](https://discord.gg/4PKKesS)
 #  Awesome TrackMania!
 
 ## Table of Contents

@@ -1,6 +1,10 @@
 <p align="center">
- [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
- [![Discord](https://img.shields.io/discord/384138149686935562?color=494368&label=%20&logo=discord&logoColor=ffffff&style=flat-square)](https://discord.gg/4PKKesS)
+  <a href="https://awesome.re" alt="Awesome">
+   <img src="https://awesome.re/badge-flat.svg" />
+  </a>
+  <a href=(https://discord.gg/4PKKesS" alt="Evo Discord">
+   <img src="(https://img.shields.io/discord/384138149686935562?color=494368&label=%20&logo=discord&logoColor=ffffff&style=flat-square" />
+  </a>
 </p>
 #  Awesome TrackMania!
 

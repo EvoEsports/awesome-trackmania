@@ -1,8 +1,8 @@
 #  Awesome TrackMania!
 
 ## Table of Contents
-- [ℹGeneral](#General)
-  * [⚙Steam](#Steam)
+- ℹ[General](#General)
+  * ⚙[Steam](#Steam)
 - [🕸Community Websites](#Community-Websites)
 - [💬Forums](#Forums)
 - [🌐Wikis](#Wikis)

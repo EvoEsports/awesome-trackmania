@@ -26,12 +26,12 @@
 - [Other](#Other)
 
 ## General
-- [Official Website](https://trackmania.com/)
-- [ManiaPlanet](https://www.maniaplanet.com/)
-- [TMU Player Page](https://player.trackmania.com/)
-- [ManiaPlanet Blog](http://blog.maniaplanet.com/)
-- [Discord](https://discord.gg/sj3KUp8)
-- [Subreddit](https://www.reddit.com/r/trackmania)
+- [Official Website](https://trackmania.com/) - Homepage of all trackmania games.
+- [ManiaPlanet](https://www.maniaplanet.com/) - Central player hub for all nadeo games.
+- [TMU Player Page](https://player.trackmania.com/) - Page for managing your TMU account, check and use planets on various things.
+- [ManiaPlanet Blog](http://blog.maniaplanet.com/) - News about maniaplanet, trackmania and more.
+- [Discord](https://discord.gg/sj3KUp8) - Discord's trackmania hub.
+- [Subreddit](https://www.reddit.com/r/trackmania) - The latest info and community content from the TrackMania series.
 
 ### Steam
 - [TrackMania² Stadium](https://store.steampowered.com/app/232910/TrackMania_Stadium/?snr=1_7_7_151_150_1)
@@ -43,26 +43,26 @@
 - [TrackMania² Canyon](https://store.steampowered.com/app/228760/TrackMania_Canyon/?snr=1_7_7_151_150_1)
 
 ## Community Websites
-- [Mania-Actu](http://mania-actu.com/) - News
-- [ManiaCalendar](http://maniacalendar.com/) - Events
-- [TrackMania Exchange](http://www.tm-exchange.com/) - TrackMania Nations Tracks
-- [ManiaExchange](https://mania-exchange.com/) - TrackMania/TrackMania² Tracks
-- [ManiaPark](http://www.maniapark.com/) - Skins/Blocks
-- [TrackMania RPG](http://www.trackmania-rpg.com/)
-- [TM Masters](http://www.tm-masters.com/) - Competitions
+- [Mania-Actu](http://mania-actu.com/) - News about events and the game.
+- [ManiaCalendar](http://maniacalendar.com/) - Events and competitions occuring in the game.
+- [TrackMania Exchange](http://www.tm-exchange.com/) - TrackMania Nations tracks sharing website.
+- [ManiaExchange](https://mania-exchange.com/) - TrackMania/TrackMania² tracks sharing website.
+- [ManiaPark](http://www.maniapark.com/) - Tons of custom skins and blocks.
+- [TrackMania RPG](http://www.trackmania-rpg.com/) - Forum for the RPG racing style.
+- [TM Masters](http://www.tm-masters.com/) - Home of popular competitions like the True Talent Cup.
 
 ## Forums
-- [ManiaPlanet](https://forum.maniaplanet.com/)
-- [TrackMania Forums](http://www.tm-forum.com/)
+- [ManiaPlanet](https://forum.maniaplanet.com/) - Official forum for all nadeo games.
+- [TrackMania Forums](http://www.tm-forum.com/) - Biggest unofficial forum for all trackmania games.
 
 ## Wikis
-- [TMNF Wiki](http://gamers.org/tmf/)
-- [Liquipedia](https://liquipedia.net/trackmania/Main_Page)
-- [Evo Wiki](https://evotm.com/wiki)
-- [Mania Tech Wiki](https://wiki.xaseco.org/wiki/Main_Page)
+- [TMNF Hub](http://gamers.org/tmf/) - Acts as a hub and wiki for different resources, and has a tutorial on how to set up servers.
+- [Liquipedia](https://liquipedia.net/trackmania/Main_Page) - Actively updated wiki for happenings in the game, competition results, teams, player transfers etc.
+- [Evo Wiki](https://evotm.com/wiki) - Various kinds of information and tutorials about the games.
+- [Mania Tech Wiki](https://wiki.xaseco.org/wiki/Main_Page) - Dive deep into the inner workings and technical parts of the game. Learn how to make sense of GBX files.
 
 ## Competitions & Events
-- [Competitive Guide To TrackMania](https://steamcommunity.com/sharedfiles/filedetails/?id=251608621)
+- [Competitive Guide To TrackMania](https://steamcommunity.com/sharedfiles/filedetails/?id=251608621) - Comprehensive guide to getting started with competitions in TrackMania.
 ### Websites
 - [TM Masters](http://www.tm-masters.com/)
 - [TM Live](https://trackmania.mania-actu.com/)

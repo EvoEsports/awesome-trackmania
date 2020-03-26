@@ -219,4 +219,4 @@ These are the steam workshop pages of each TrackMania² title, containing tracks
 
 ## Other
 - [TM Ladder](http://en.tm-ladder.com/)
-- [VS Code ManiaScript](https://github.com/MattMcFarland/vscode-maniascript) Syntax-highlightning and auto completion for ManiaScript in Visual Studio Code.
+- [VS Code ManiaScript](https://github.com/MattMcFarland/vscode-maniascript) - Syntax-highlightning and auto completion for ManiaScript in Visual Studio Code.

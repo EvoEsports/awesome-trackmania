@@ -115,7 +115,7 @@ The following links are the steam store pages for the TrackMania games.
 ### Tracks
 - [ManiaExchange](https://tm.mania-exchange.com/) - For TrackMania² tracks.
 - [TrackMania Exchange (TMX)](https://tmnforever.tm-exchange.com/) - For TrackMania Nations Forever tracks.
-. [Item Exchange](https://item.mania-exchange.com/) - Blocks and items for tracks.
+- [Item Exchange](https://item.mania-exchange.com/) - Blocks and items for tracks.
 ### Car Skins
 - [Carpark](http://www.trackmania-carpark.com/) - TMNF/TrackMania² skins.
 - [Maniapark](http://www.maniapark.com/) - TrackMania² skins.

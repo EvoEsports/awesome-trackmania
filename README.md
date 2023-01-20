@@ -2,7 +2,7 @@
   <a href="https://awesome.re" alt="Awesome">
    <img src="https://awesome.re/badge-flat.svg" />
   </a>
-  <a href=(https://discord.gg/4PKKesS" alt="Evo Discord">
+  <a href=(https://discord.gg/evotm" alt="Evo Discord">
    <img src="https://img.shields.io/discord/384138149686935562?color=494368&label=%20&logo=discord&logoColor=ffffff&style=flat-square" />
   </a>
 </p>
@@ -88,7 +88,9 @@ The following links are the steam store pages for the TrackMania games.
 - [ZeratoR TM Cup (ZrT)](http://tmcup.fr/) - Massive competition organized each year by the french streamer ZeratoR.
 
 ## Servers
-- [TrackMania² Latest Dedicated Server](http://files.v04.maniaplanet.com/server/ManiaplanetServer_Latest.zip) - The latest versions of the dedicated server. Contains windows and linux builds.
+- [TrackMania (2020) Latest Dedicated Server](http://files.v04.maniaplanet.com/server/TrackmaniaServer_Latest.zip) - The latest versions of the Trackmania (2020) dedicated server. Contains windows and linux builds.
+- [TrackMania (2020) Docker Server](https://hub.docker.com/r/evotm/trackmania) - Deploy a TrackMania (2020) server in docker within seconds.
+- [TrackMania² Latest Dedicated Server](http://files.v04.maniaplanet.com/server/ManiaplanetServer_Latest.zip) - The latest versions of the Trackmania² dedicated server. Contains windows and linux builds.
 - [TrackMania² Dedicated Server Docs](https://doc.maniaplanet.com/dedicated-server/getting-started) - Learn how to set up your own TrackMania server.
 - [TrackMania² Docker Server](https://hub.docker.com/r/pyplanet/maniaplanet-dedicated) - Deploy a TrackMania² server in a docker container.
 - [TMNF Dedicated Server](http://www.tm-forum.com/viewtopic.php?t=14203) - Dedicated server download and quick start for TMU/TMNF.
@@ -120,6 +122,8 @@ The following links are the steam store pages for the TrackMania games.
 - [Carpark](http://www.trackmania-carpark.com/) - TMNF/TrackMania² skins.
 - [Maniapark](http://www.maniapark.com/) - TrackMania² skins.
 - [TM Southmoon](http://trackmania.southmoon.net/cars/) - TM original, sunrise, ESWC skins.
+### Others
+- [Marie's Trackmania Stuff](https://mariejuku.github.io/) - Various usefull things like Skins, Mods, and Signs.
 
 ### Steam
 These are the steam workshop pages of each TrackMania² title, containing tracks, skins, models, blocks and many other custom things.
@@ -167,12 +171,11 @@ These are the steam workshop pages of each TrackMania² title, containing tracks
 - [United Unicorns](https://discord.gg/457Bxpf)
 - [United Designers](https://discord.gg/v96Xq25)
 - [Trackmania Nascar](https://discord.gg/v3eWrzh)
-- [Evo](https://discord.gg/4PKKesS)
+- [Evo](https://discord.gg/evotm)
 - [OpenPlanet](https://discordapp.com/invite/6JesQ6h)
 
 ### Players
 - [Spammiej Squad](https://discord.gg/2VGfH47)
-- [riolu's Meme Corner](https://discord.gg/bH4BPj7)
 - [Eirik Hodal's Corner](https://discord.gg/vKETwuy)
 - [asteri’s Discord](https://discord.gg/WQg8EKW)
 - [NidoTOUR](https://discord.gg/aVxXv3x)
@@ -217,6 +220,7 @@ These are the steam workshop pages of each TrackMania² title, containing tracks
 - [Krzychor Campaign Maker](https://wiki.xaseco.org/wiki/File:Krzychor-campaign-maker.zip) - Windows tool that allows to create custom campaigns for TMNF/TMUF.
 - [TMTelemetry](https://github.com/Electron-x/TMTelemetry) - A tool for Microsoft Windows that displays real-time telemetry data from the TrackMania racing game.
 - [OpenPlanet](https://openplanet.nl/)
+- [GBX.NET Explorer](https://gbxexplorer.net/) - An online tool to inspect GBX files.
 
 ## Other
 - [TM Ladder](http://en.tm-ladder.com/)
